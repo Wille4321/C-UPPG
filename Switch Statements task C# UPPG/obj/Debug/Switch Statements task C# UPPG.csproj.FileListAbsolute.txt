@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Switch Statements task C# UPPG\bin\Debug\Switch Statements task C# UPPG.exe.config
+C:\Users\User\source\repos\Switch Statements task C# UPPG\bin\Debug\Switch Statements task C# UPPG.exe
+C:\Users\User\source\repos\Switch Statements task C# UPPG\bin\Debug\Switch Statements task C# UPPG.pdb
+C:\Users\User\source\repos\Switch Statements task C# UPPG\obj\Debug\Switch Statements task C# UPPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Switch Statements task C# UPPG\obj\Debug\Switch Statements task C# UPPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Switch Statements task C# UPPG\obj\Debug\Switch Statements task C# UPPG.exe
+C:\Users\User\source\repos\Switch Statements task C# UPPG\obj\Debug\Switch Statements task C# UPPG.pdb

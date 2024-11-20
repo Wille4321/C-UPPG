@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\InputOutput in C# UPPG\bin\Debug\InputOutput in C# UPPG.exe.config
+C:\Users\User\source\repos\InputOutput in C# UPPG\bin\Debug\InputOutput in C# UPPG.exe
+C:\Users\User\source\repos\InputOutput in C# UPPG\bin\Debug\InputOutput in C# UPPG.pdb
+C:\Users\User\source\repos\InputOutput in C# UPPG\obj\Debug\InputOutput in C# UPPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InputOutput in C# UPPG\obj\Debug\InputOutput in C# UPPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InputOutput in C# UPPG\obj\Debug\InputOutput in C# UPPG.exe
+C:\Users\User\source\repos\InputOutput in C# UPPG\obj\Debug\InputOutput in C# UPPG.pdb

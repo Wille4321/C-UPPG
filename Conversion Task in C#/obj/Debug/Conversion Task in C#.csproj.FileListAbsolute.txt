@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Conversion Task in C#\bin\Debug\Conversion Task in C#.exe.config
+C:\Users\User\source\repos\Conversion Task in C#\bin\Debug\Conversion Task in C#.exe
+C:\Users\User\source\repos\Conversion Task in C#\bin\Debug\Conversion Task in C#.pdb
+C:\Users\User\source\repos\Conversion Task in C#\obj\Debug\Conversion Task in C#.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Conversion Task in C#\obj\Debug\Conversion Task in C#.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conversion Task in C#\obj\Debug\Conversion Task in C#.exe
+C:\Users\User\source\repos\Conversion Task in C#\obj\Debug\Conversion Task in C#.pdb
