@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Boolean uppg\bin\Debug\Boolean uppg.exe.config
+C:\Users\User\source\repos\Boolean uppg\bin\Debug\Boolean uppg.exe
+C:\Users\User\source\repos\Boolean uppg\bin\Debug\Boolean uppg.pdb
+C:\Users\User\source\repos\Boolean uppg\obj\Debug\Boolean uppg.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Boolean uppg\obj\Debug\Boolean uppg.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Boolean uppg\obj\Debug\Boolean uppg.exe
+C:\Users\User\source\repos\Boolean uppg\obj\Debug\Boolean uppg.pdb

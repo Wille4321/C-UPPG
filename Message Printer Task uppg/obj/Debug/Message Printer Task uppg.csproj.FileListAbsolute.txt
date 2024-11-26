@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Message Printer Task uppg\bin\Debug\Message Printer Task uppg.exe.config
+C:\Users\User\source\repos\Message Printer Task uppg\bin\Debug\Message Printer Task uppg.exe
+C:\Users\User\source\repos\Message Printer Task uppg\bin\Debug\Message Printer Task uppg.pdb
+C:\Users\User\source\repos\Message Printer Task uppg\obj\Debug\Message Printer Task uppg.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Message Printer Task uppg\obj\Debug\Message Printer Task uppg.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Message Printer Task uppg\obj\Debug\Message Printer Task uppg.exe
+C:\Users\User\source\repos\Message Printer Task uppg\obj\Debug\Message Printer Task uppg.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Operators in C#\bin\Debug\Operators in C#.exe.config
+C:\Users\User\source\repos\Operators in C#\bin\Debug\Operators in C#.exe
+C:\Users\User\source\repos\Operators in C#\bin\Debug\Operators in C#.pdb
+C:\Users\User\source\repos\Operators in C#\obj\Debug\Operators in C#.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Operators in C#\obj\Debug\Operators in C#.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Operators in C#\obj\Debug\Operators in C#.exe
+C:\Users\User\source\repos\Operators in C#\obj\Debug\Operators in C#.pdb
