@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\LogicalError1 UPPG\bin\Debug\LogicalError1 UPPG.exe.config
+C:\Users\User\source\repos\LogicalError1 UPPG\bin\Debug\LogicalError1 UPPG.exe
+C:\Users\User\source\repos\LogicalError1 UPPG\bin\Debug\LogicalError1 UPPG.pdb
+C:\Users\User\source\repos\LogicalError1 UPPG\obj\Debug\LogicalError1 UPPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LogicalError1 UPPG\obj\Debug\LogicalError1 UPPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LogicalError1 UPPG\obj\Debug\LogicalError1 UPPG.exe
+C:\Users\User\source\repos\LogicalError1 UPPG\obj\Debug\LogicalError1 UPPG.pdb
