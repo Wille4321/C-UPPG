@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ArrayMultiplicstionTask UPPG\obj\Debug\ArrayMultiplicstionTask UPPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ArrayMultiplicstionTask UPPG\obj\Debug\ArrayMultiplicstionTask UPPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArrayMultiplicstionTask UPPG\bin\Debug\ArrayMultiplicstionTask UPPG.exe.config
+C:\Users\User\source\repos\ArrayMultiplicstionTask UPPG\bin\Debug\ArrayMultiplicstionTask UPPG.exe
+C:\Users\User\source\repos\ArrayMultiplicstionTask UPPG\bin\Debug\ArrayMultiplicstionTask UPPG.pdb
+C:\Users\User\source\repos\ArrayMultiplicstionTask UPPG\obj\Debug\ArrayMultiplicstionTask UPPG.exe
+C:\Users\User\source\repos\ArrayMultiplicstionTask UPPG\obj\Debug\ArrayMultiplicstionTask UPPG.pdb
