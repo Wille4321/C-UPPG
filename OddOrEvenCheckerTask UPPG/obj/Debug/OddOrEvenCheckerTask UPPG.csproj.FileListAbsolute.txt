@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\OddOrEvenCheckerTask UPPG\bin\Debug\OddOrEvenCheckerTask UPPG.exe.config
+C:\Users\User\source\repos\OddOrEvenCheckerTask UPPG\bin\Debug\OddOrEvenCheckerTask UPPG.exe
+C:\Users\User\source\repos\OddOrEvenCheckerTask UPPG\bin\Debug\OddOrEvenCheckerTask UPPG.pdb
+C:\Users\User\source\repos\OddOrEvenCheckerTask UPPG\obj\Debug\OddOrEvenCheckerTask UPPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OddOrEvenCheckerTask UPPG\obj\Debug\OddOrEvenCheckerTask UPPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OddOrEvenCheckerTask UPPG\obj\Debug\OddOrEvenCheckerTask UPPG.exe
+C:\Users\User\source\repos\OddOrEvenCheckerTask UPPG\obj\Debug\OddOrEvenCheckerTask UPPG.pdb
