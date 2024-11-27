@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AgeVerificationAndControlFlow UPPG\bin\Debug\AgeVerificationAndControlFlow UPPG.exe.config
+C:\Users\User\source\repos\AgeVerificationAndControlFlow UPPG\bin\Debug\AgeVerificationAndControlFlow UPPG.exe
+C:\Users\User\source\repos\AgeVerificationAndControlFlow UPPG\bin\Debug\AgeVerificationAndControlFlow UPPG.pdb
+C:\Users\User\source\repos\AgeVerificationAndControlFlow UPPG\obj\Debug\AgeVerificationAndControlFlow UPPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AgeVerificationAndControlFlow UPPG\obj\Debug\AgeVerificationAndControlFlow UPPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AgeVerificationAndControlFlow UPPG\obj\Debug\AgeVerificationAndControlFlow UPPG.exe
+C:\Users\User\source\repos\AgeVerificationAndControlFlow UPPG\obj\Debug\AgeVerificationAndControlFlow UPPG.pdb
