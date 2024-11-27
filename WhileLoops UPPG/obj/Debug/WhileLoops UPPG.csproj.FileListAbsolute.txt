@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\WhileLoops UPPG\bin\Debug\WhileLoops UPPG.exe.config
+C:\Users\User\source\repos\WhileLoops UPPG\bin\Debug\WhileLoops UPPG.exe
+C:\Users\User\source\repos\WhileLoops UPPG\bin\Debug\WhileLoops UPPG.pdb
+C:\Users\User\source\repos\WhileLoops UPPG\obj\Debug\WhileLoops UPPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WhileLoops UPPG\obj\Debug\WhileLoops UPPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WhileLoops UPPG\obj\Debug\WhileLoops UPPG.exe
+C:\Users\User\source\repos\WhileLoops UPPG\obj\Debug\WhileLoops UPPG.pdb
