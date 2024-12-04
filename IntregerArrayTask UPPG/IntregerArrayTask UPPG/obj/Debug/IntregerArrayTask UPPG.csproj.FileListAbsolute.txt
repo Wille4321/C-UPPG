@@ -1,0 +1,7 @@
+C:\Users\NordströmWille\source\repos\IntregerArrayTask UPPG\IntregerArrayTask UPPG\bin\Debug\IntregerArrayTask UPPG.exe.config
+C:\Users\NordströmWille\source\repos\IntregerArrayTask UPPG\IntregerArrayTask UPPG\bin\Debug\IntregerArrayTask UPPG.exe
+C:\Users\NordströmWille\source\repos\IntregerArrayTask UPPG\IntregerArrayTask UPPG\bin\Debug\IntregerArrayTask UPPG.pdb
+C:\Users\NordströmWille\source\repos\IntregerArrayTask UPPG\IntregerArrayTask UPPG\obj\Debug\IntregerArrayTask UPPG.csproj.AssemblyReference.cache
+C:\Users\NordströmWille\source\repos\IntregerArrayTask UPPG\IntregerArrayTask UPPG\obj\Debug\IntregerArrayTask UPPG.csproj.CoreCompileInputs.cache
+C:\Users\NordströmWille\source\repos\IntregerArrayTask UPPG\IntregerArrayTask UPPG\obj\Debug\IntregerArrayTask UPPG.exe
+C:\Users\NordströmWille\source\repos\IntregerArrayTask UPPG\IntregerArrayTask UPPG\obj\Debug\IntregerArrayTask UPPG.pdb
