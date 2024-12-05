@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\LogicErrorChallenge3 UPPG\bin\Debug\LogicErrorChallenge3 UPPG.exe.config
+C:\Users\User\source\repos\LogicErrorChallenge3 UPPG\bin\Debug\LogicErrorChallenge3 UPPG.exe
+C:\Users\User\source\repos\LogicErrorChallenge3 UPPG\bin\Debug\LogicErrorChallenge3 UPPG.pdb
+C:\Users\User\source\repos\LogicErrorChallenge3 UPPG\obj\Debug\LogicErrorChallenge3 UPPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LogicErrorChallenge3 UPPG\obj\Debug\LogicErrorChallenge3 UPPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LogicErrorChallenge3 UPPG\obj\Debug\LogicErrorChallenge3 UPPG.exe
+C:\Users\User\source\repos\LogicErrorChallenge3 UPPG\obj\Debug\LogicErrorChallenge3 UPPG.pdb
