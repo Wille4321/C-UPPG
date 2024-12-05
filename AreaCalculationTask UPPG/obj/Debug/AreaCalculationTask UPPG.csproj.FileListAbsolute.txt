@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AreaCalculationTask UPPG\bin\Debug\AreaCalculationTask UPPG.exe.config
+C:\Users\User\source\repos\AreaCalculationTask UPPG\bin\Debug\AreaCalculationTask UPPG.exe
+C:\Users\User\source\repos\AreaCalculationTask UPPG\bin\Debug\AreaCalculationTask UPPG.pdb
+C:\Users\User\source\repos\AreaCalculationTask UPPG\obj\Debug\AreaCalculationTask UPPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AreaCalculationTask UPPG\obj\Debug\AreaCalculationTask UPPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AreaCalculationTask UPPG\obj\Debug\AreaCalculationTask UPPG.exe
+C:\Users\User\source\repos\AreaCalculationTask UPPG\obj\Debug\AreaCalculationTask UPPG.pdb
