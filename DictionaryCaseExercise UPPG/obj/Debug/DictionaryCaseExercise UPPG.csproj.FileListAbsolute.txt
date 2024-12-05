@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\DictionaryCaseExercise UPPG\bin\Debug\DictionaryCaseExercise UPPG.exe.config
+C:\Users\User\source\repos\DictionaryCaseExercise UPPG\bin\Debug\DictionaryCaseExercise UPPG.exe
+C:\Users\User\source\repos\DictionaryCaseExercise UPPG\bin\Debug\DictionaryCaseExercise UPPG.pdb
+C:\Users\User\source\repos\DictionaryCaseExercise UPPG\obj\Debug\DictionaryCaseExercise UPPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DictionaryCaseExercise UPPG\obj\Debug\DictionaryCaseExercise UPPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DictionaryCaseExercise UPPG\obj\Debug\DictionaryCaseExercise UPPG.exe
+C:\Users\User\source\repos\DictionaryCaseExercise UPPG\obj\Debug\DictionaryCaseExercise UPPG.pdb
