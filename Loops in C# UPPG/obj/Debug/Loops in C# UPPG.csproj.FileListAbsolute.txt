@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\Loops in C# UPPG\bin\Debug\Loops in C# UPPG.exe.config
-C:\Users\User\source\repos\Loops in C# UPPG\bin\Debug\Loops in C# UPPG.exe
-C:\Users\User\source\repos\Loops in C# UPPG\bin\Debug\Loops in C# UPPG.pdb
-C:\Users\User\source\repos\Loops in C# UPPG\obj\Debug\Loops in C# UPPG.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\Loops in C# UPPG\obj\Debug\Loops in C# UPPG.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Loops in C# UPPG\obj\Debug\Loops in C# UPPG.exe
-C:\Users\User\source\repos\Loops in C# UPPG\obj\Debug\Loops in C# UPPG.pdb
