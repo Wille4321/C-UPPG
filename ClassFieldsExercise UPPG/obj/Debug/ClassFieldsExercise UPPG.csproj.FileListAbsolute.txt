@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ClassFieldsExercise UPPG\bin\Debug\ClassFieldsExercise UPPG.exe.config
+C:\Users\User\source\repos\ClassFieldsExercise UPPG\bin\Debug\ClassFieldsExercise UPPG.exe
+C:\Users\User\source\repos\ClassFieldsExercise UPPG\bin\Debug\ClassFieldsExercise UPPG.pdb
+C:\Users\User\source\repos\ClassFieldsExercise UPPG\obj\Debug\ClassFieldsExercise UPPG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClassFieldsExercise UPPG\obj\Debug\ClassFieldsExercise UPPG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassFieldsExercise UPPG\obj\Debug\ClassFieldsExercise UPPG.exe
+C:\Users\User\source\repos\ClassFieldsExercise UPPG\obj\Debug\ClassFieldsExercise UPPG.pdb
