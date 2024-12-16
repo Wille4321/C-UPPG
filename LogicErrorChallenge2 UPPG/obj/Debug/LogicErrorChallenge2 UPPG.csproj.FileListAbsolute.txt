@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\LogicErrorChallenge2 UPPG\bin\Debug\LogicErrorChallenge2 UPPG.exe.config
-C:\Users\User\source\repos\LogicErrorChallenge2 UPPG\bin\Debug\LogicErrorChallenge2 UPPG.exe
-C:\Users\User\source\repos\LogicErrorChallenge2 UPPG\bin\Debug\LogicErrorChallenge2 UPPG.pdb
-C:\Users\User\source\repos\LogicErrorChallenge2 UPPG\obj\Debug\LogicErrorChallenge2 UPPG.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\LogicErrorChallenge2 UPPG\obj\Debug\LogicErrorChallenge2 UPPG.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\LogicErrorChallenge2 UPPG\obj\Debug\LogicErrorChallenge2 UPPG.exe
-C:\Users\User\source\repos\LogicErrorChallenge2 UPPG\obj\Debug\LogicErrorChallenge2 UPPG.pdb
